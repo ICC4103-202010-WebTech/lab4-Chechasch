@@ -1,3 +1,5 @@
+Sebastian Schlotfeldt
+
 # Base Code for Lab Assignment 4
 
 Take a careful look at the models and their associations.
